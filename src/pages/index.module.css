@@ -1,0 +1,30 @@
+.sns-icon::before {
+    content: '';
+    background-size: contain;
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    background-repeat: no-repeat;
+}
+
+.icon-location::before {
+    background-image: url("../images/location.svg");
+}
+
+.icon-github::before {
+    background-image: url("../images/github.png");
+}
+
+.icon-linkedin::before {
+    background-image: url("../images/linkedin.png");
+}
+
+.icon-twitter::before {
+    background-image: url("../images/twitter.svg");
+}
+
+.icon-facebook::before {
+    background-image: url("../images/facebook.png");
+}
