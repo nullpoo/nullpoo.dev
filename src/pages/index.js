@@ -11,6 +11,9 @@ const IndexPage = () => (
     <p className={`${styles.snsIcon} ${styles.iconLocation}`}>
       <a href="https://goo.gl/maps/KAG16pAwwSAJVdMB7">Tokyo in Japan</a>
     </p>
+    <p className={`${styles.snsIcon} ${styles.iconEmail}`}>
+      <a href="mailto:fmfmfmfm@gmail.com">fmfmfmfm@gmail.com</a>
+    </p>
     <p className={`${styles.snsIcon} ${styles.iconTwitter}`}>
       <a href="https://twitter.com/nullpoo">@nullpoo</a>
     </p>

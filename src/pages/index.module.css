@@ -9,6 +9,10 @@
     background-repeat: no-repeat;
 }
 
+.icon-email::before {
+    background-image: url("../images/email.svg");
+}
+
 .icon-location::before {
     background-image: url("../images/location.svg");
 }
